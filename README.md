@@ -31,7 +31,7 @@
 1. 运行下列命令
 
 ```
-git clone https://github.com/Sorrow-Scarlet/HoK-Story.git
+git clone https://github.com/HoK-Writing/HoK-Story.git
 ```
 
 2. 肝事件
